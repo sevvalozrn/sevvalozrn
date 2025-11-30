@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Şevval
 
-<!--
-**sevvalozrn/sevvalozrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Computer Engineering student** from Turkey, passionate about turning ideas into real projects.  
+I enjoy building things that are simple, elegant, and functional, while exploring new technologies and solutions. ✨
 
-Here are some ideas to get you started:
+I have experience with **Python, C#, Unity**, along with **HTML5 & CSS3** from my internship in frontend development.  
+Lately, I’ve been sharpening my **JavaScript** skills and exploring **machine learning**, while occasionally experimenting with **3D modeling**.  
+I also have practical experience with **MSSQL** and **SQLite** databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Currently working on**  
+- Developing skills in AI & machine learning
+- Advanced JavaScript projects & modern web development
+
+🌱 **Currently learning**  
+- Advanced ML algorithms and frameworks
+- 3D modeling and game development in my free time
+
+---
+
+📫 **Connect with me**  
+- [LinkedIn](https://www.linkedin.com/in/%C5%9Fevval-%C3%B6zeren)
