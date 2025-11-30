@@ -17,7 +17,3 @@ I also have practical experience with **MSSQL** and **SQLite** databases.
 - Advanced ML algorithms and frameworks
 - 3D modeling and game development in my free time
 
----
-
-📫 **Connect with me**  
-- [LinkedIn](https://www.linkedin.com/in/%C5%9Fevval-%C3%B6zeren)
