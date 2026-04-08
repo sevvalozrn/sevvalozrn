@@ -26,5 +26,5 @@ I enjoy building things that are simple, elegant, and functional, while explorin
 
 🚀 **Currently working on:** Stock Price Prediction Model.
 
-🌱 **Currently learning:** Deep Learning, Data Visualization & 3D Game Dev.
+🌱 **Currently learning:** Deep Learning, Data Visualization & Game Dev.
 
